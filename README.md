@@ -2,7 +2,8 @@
 
 <h2> Certain Commands used in the code through terminal</h2>
 
-<h3> mkdir </h3> <h4>This command is used to create the required directory in the desired location in its parent directory. </h4>
+## mkdir 
+<h4>This command is used to create the required directory in the desired location in its parent directory. </h4>
 
 <h3> cd </h3> <h4>This commands enables a user to change the current working directory. </h4>
 
