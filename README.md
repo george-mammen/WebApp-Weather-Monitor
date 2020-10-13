@@ -5,17 +5,24 @@
 ### mkdir 
 This command is used to create the required directory in the desired location in its parent directory. 
 
-<h3> cd </h3> <h4>This commands enables a user to change the current working directory. </h4>
+### cd 
+This commands enables a user to change the current working directory. 
 
-<h3> touch </h3> <h4>This command enables a user to create an empty file. </h4>
+### touch  
+This command enables a user to create an empty file. 
 
-<h3>npm init </h3> <h4>Helps to initialise npm(Node Package Manager) and hance creating the required package(package.json) after a series of queries. </h4>
+### npm init 
+Helps to initialise npm(Node Package Manager) and hance creating the required package(package.json) after a series of queries. 
 
-<h3>npm install express </h3> <h4>This command is used to install express,web developement framework used by Node into the directory. </h4>
+### npm install express 
+This command is used to install express,web developement framework used by Node into the directory. 
 
-<h3>npm install body-parser </h3> <h4> body-parser is a piece of express middleware that reads a form's input and stores it as a javascript object accessible through req.body. </h4>
+### npm install body-parser 
+ body-parser is a piece of express middleware that reads a form's input and stores it as a javascript object accessible through req.body.
 
-<h3>npm install request </h3> <h4> request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default. </h4>
+### npm install request  
+request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
-<h3>nodemon app.js </h3> <h4> This command is used to apply the changes made in the code immediately to the server and the server is updated when the file is saved </h4>
+### nodemon app.js 
+This command is used to apply the changes made in the code immediately to the server and the server is updated when the file is saved.
 
